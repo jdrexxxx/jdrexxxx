@@ -4,7 +4,7 @@ I build and run the software behind a nonprofit veterinary telehealth platform, 
 
 **Every repository I work in is private except this one.** A stats card here would show you an empty account: no public repos to browse, no stars, nothing to click. The green squares below are real — I have private contributions switched on — but every other number on this page was counted out of the repositories themselves, at `HEAD`, on 2026-09-09.
 
-<img src="./assets/telemetry.svg?v=1" width="100%" alt="Telemetry: 1,474 contributions in the last year, all private. 133 active days, longest streak 21 days, peak 96 commits in one day. 49,435,195 bytes of source across 35 repositories — TypeScript 93.20%, JavaScript 2.59%, Astro 2.55%, CSS 0.86%, HTML 0.61%, nine others 0.19%.">
+<img src="./assets/telemetry.svg?v=2" width="100%" alt="Telemetry: 1,474 contributions in the last year, all private. 133 active days, longest streak 21 days, peak 96 commits in one day. 49,435,195 bytes of source across 35 repositories — TypeScript 93.20%, JavaScript 2.59%, Astro 2.55%, CSS 0.86%, HTML 0.61%, nine others 0.19%.">
 
 ---
 
@@ -75,7 +75,7 @@ Plus, in the private tree: Pawllicy, Vet Formed, Cubazo Marketplace, Dennis Beac
 | Figure | Counted from |
 | --- | --- |
 | 49,435,195 bytes · 93.20% TypeScript · 35 repositories | GitHub Languages API, summed across every repo this account can reach, private included |
-| 1,476 contributions · 133 active days · 21-day streak · 96-commit day | the account contribution calendar, private contributions included |
+| 1,476 contributions since June 2024 — 1,474 of them in the last year, over 133 active days; 21-day streak; 96-commit day | the account contribution calendar, private contributions included |
 | routes, components, models, pages | counted in the source trees at `HEAD` on 2026-09-09 |
 | commit splits | the GitHub contributors API, per repo |
 
