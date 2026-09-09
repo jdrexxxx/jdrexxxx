@@ -30,7 +30,7 @@ stats.forEach(([n,u,l],i)=>{
       +`<text x="${x}" y="${H-16}" class="sl">${l}</text>`;
 });
 
-const svg=`<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" role="img" aria-label="JD, founder and architect at Black Wires, Hondarribia. Five products: rexvet.org, greenbits.ai, seowires.com, rexsailing.com, blackwires.com. 49.4 MB of source, 93.2 percent TypeScript, 1,476 contributions, 35 repositories.">
+const svg=`<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" role="img" aria-label="JD, founder and architect at Black Wires, Miami. Five products: rexvet.org, greenbits.ai, seowires.com, rexsailing.com, blackwires.com. 49.4 MB of source, 93.2 percent TypeScript, 1,476 contributions, 35 repositories.">
 <defs>
   <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
     <stop offset="0" stop-color="#3fb950"/><stop offset="0.55" stop-color="#2ea043"/><stop offset="1" stop-color="#1f6feb"/>
@@ -57,7 +57,7 @@ const svg=`<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" vi
 <rect x="0" y="0" width="${W}" height="4" rx="2" fill="url(#edge)"/>
 <rect x="0.5" y="0.5" width="${W-1}" height="${H-1}" rx="15.5" fill="none" stroke="#30363d"/>
 
-<text x="${PAD}" y="52" class="eyebrow">BLACK WIRES &#183; HONDARRIBIA, BASQUE COAST</text>
+<text x="${PAD}" y="52" class="eyebrow">BLACK WIRES &#183; MIAMI, FLORIDA</text>
 <text x="${PAD}" y="112" class="name">JD<tspan class="handle" dx="14">@jdrexxxx</tspan></text>
 <text x="${PAD}" y="138" class="role">FOUNDER &#183; ARCHITECT &#183; OPERATOR</text>
 <text x="${PAD}" y="178" class="lede">Five companies run on software I own and operate:</text>
@@ -71,5 +71,5 @@ ${rows}
 <line x1="${PAD}" y1="${H-64}" x2="${W-PAD}" y2="${H-64}" class="div"/>
 ${rail}
 </svg>`;
-fs.writeFileSync('banner.svg',svg);
+fs.writeFileSync(__dirname+'/banner.svg',svg);
 console.log('wrote banner.svg',svg.length,'bytes',W+'x'+H);

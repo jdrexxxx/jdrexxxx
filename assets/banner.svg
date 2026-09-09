@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="300" viewBox="0 0 880 300" role="img" aria-label="JD, founder and architect at Black Wires, Hondarribia. Five products: rexvet.org, greenbits.ai, seowires.com, rexsailing.com, blackwires.com. 49.4 MB of source, 93.2 percent TypeScript, 1,476 contributions, 35 repositories.">
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="300" viewBox="0 0 880 300" role="img" aria-label="JD, founder and architect at Black Wires, Miami. Five products: rexvet.org, greenbits.ai, seowires.com, rexsailing.com, blackwires.com. 49.4 MB of source, 93.2 percent TypeScript, 1,476 contributions, 35 repositories.">
 <defs>
   <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
     <stop offset="0" stop-color="#3fb950"/><stop offset="0.55" stop-color="#2ea043"/><stop offset="1" stop-color="#1f6feb"/>
@@ -25,7 +25,7 @@
 <rect x="0" y="0" width="880" height="4" rx="2" fill="url(#edge)"/>
 <rect x="0.5" y="0.5" width="879" height="299" rx="15.5" fill="none" stroke="#30363d"/>
 
-<text x="34" y="52" class="eyebrow">BLACK WIRES &#183; HONDARRIBIA, BASQUE COAST</text>
+<text x="34" y="52" class="eyebrow">BLACK WIRES &#183; MIAMI, FLORIDA</text>
 <text x="34" y="112" class="name">JD<tspan class="handle" dx="14">@jdrexxxx</tspan></text>
 <text x="34" y="138" class="role">FOUNDER &#183; ARCHITECT &#183; OPERATOR</text>
 <text x="34" y="178" class="lede">Five companies run on software I own and operate:</text>

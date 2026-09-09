@@ -1,6 +1,6 @@
-<img src="./assets/banner.svg?v=1" width="100%" alt="JD — founder, architect and operator at Black Wires, Hondarribia. In production: rexvet.org, greenbits.ai, seowires.com, rexsailing.com, blackwires.com. 49.4 MB of source, 93.2% TypeScript, 1,476 contributions, 35 repositories.">
+<img src="./assets/banner.svg?v=2" width="100%" alt="JD — founder, architect and operator at Black Wires, Miami. In production: rexvet.org, greenbits.ai, seowires.com, rexsailing.com, blackwires.com. 49.4 MB of source, 93.2% TypeScript, 1,476 contributions, 35 repositories.">
 
-I build and run the software behind a nonprofit veterinary telehealth platform, an AI video studio, an SEO content engine, a vet marketplace and a sailing school — from Hondarribia, on the Basque coast.
+I build and run the software behind a nonprofit veterinary telehealth platform, an AI video studio, an SEO content engine, a vet marketplace and a sailing school — from Miami, Florida.
 
 **Every repository I work in is private except this one.** A stats card here would show you an empty account: no public repos to browse, no stars, nothing to click. The green squares below are real — I have private contributions switched on — but every other number on this page was counted out of the repositories themselves, at `HEAD`, on 2026-09-09.
 
@@ -88,7 +88,7 @@ Commit totals are repo-wide and include collaborators; wherever a repo is not mi
 ```
 $ whoami
 JD  ·  @jdrexxxx  ·  Black Wires
-Hondarribia, Basque Country, ES  ·  CET/CEST
+Miami, FL, USA  ·  EST/EDT
 TypeScript 93.2%  ·  49.4 MB  ·  35 private repositories, plus this page
 Reachable at blackwires.com
 ```
